@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+</head>
+<body>
+    <h1>Prabhas raju</h1>
+    <img src=""C:\Users\vempa\Downloads\Snapchat-1117773933.jpg"" alt="Prabhas raju" width="200">
+    <p>Hi! My name is prabhas raju.</p>
+    <h2>Favorite Websites</h2>
+    <ul>
+        <li><a href="https://open.spotify.com/" target="_blank">Spotify</a></li>
+        <li><a href="https://www.netflix.com/browse" target="_blank">Netflix</a></li>
+        <li><a href= "https://www.onlinegdb.com/#"target="_blank">Online GDB</a></li>
+    </ul>
+  </body>
+</html>
